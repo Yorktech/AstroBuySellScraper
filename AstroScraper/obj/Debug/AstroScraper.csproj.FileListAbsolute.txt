@@ -1,0 +1,14 @@
+Z:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroScraper\bin\Debug\AstroScraper.dll
+Z:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroScraper\bin\Debug\AstroScraper.pdb
+Z:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroScraper\obj\Debug\AstroScraper.dll
+Z:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroScraper\obj\Debug\AstroScraper.pdb
+C:\Users\steve\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroScraper\bin\Debug\AstroScraper.dll
+C:\Users\steve\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroScraper\bin\Debug\AstroScraper.pdb
+C:\Users\steve\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroScraper\obj\Debug\AstroScraper.csprojResolveAssemblyReference.cache
+C:\Users\steve\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroScraper\obj\Debug\AstroScraper.dll
+C:\Users\steve\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroScraper\obj\Debug\AstroScraper.pdb
+C:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroScraper\bin\Debug\AstroScraper.dll
+C:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroScraper\bin\Debug\AstroScraper.pdb
+C:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroScraper\obj\Debug\AstroScraper.csprojResolveAssemblyReference.cache
+C:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroScraper\obj\Debug\AstroScraper.dll
+C:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroScraper\obj\Debug\AstroScraper.pdb

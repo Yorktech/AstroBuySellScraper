@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AstroConsole.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EmailAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">steve@yorktechsolutions.co.uk</Value>
+    </Setting>
+    <Setting Name="EmailServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mail.yorktechsolutions.co.uk</Value>
+    </Setting>
+    <Setting Name="ServerUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">steve@yorktechsolutions.co.uk</Value>
+    </Setting>
+    <Setting Name="ServerPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Spacehog</Value>
+    </Setting>
+    <Setting Name="UpdateTimerMins" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,8 @@
+C:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroConsole\bin\Debug\AstroConsole.exe.config
+C:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroConsole\bin\Debug\AstroConsole.exe
+C:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroConsole\bin\Debug\AstroConsole.pdb
+C:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroConsole\obj\Debug\AstroConsole.csprojResolveAssemblyReference.cache
+C:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroConsole\obj\Debug\AstroConsole.exe
+C:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroConsole\obj\Debug\AstroConsole.pdb
+C:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroConsole\bin\Debug\AstroScraper.dll
+C:\Dropbox\Source\Astro Buy Sell\AstroScraper\AstroConsole\bin\Debug\AstroScraper.pdb
